@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KU Leuven App</string>
+    <string name="KULeuven">KU Leuven</string>
+    <string name="addressLine1">Oude Markt 13</string>
+    <string name="addressLine2">3000 Leuven, Belgium</string>
+    <string name="phoneNumber">+32 16 3 24010</string>
+    <string name="webSite">https://www.kuleuven.be</string>
+</resources>
